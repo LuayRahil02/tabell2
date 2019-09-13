@@ -1,0 +1,22 @@
+table,tr,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 190%;
+    
+}
+table {width: 50%;}
+.bla {background-color: blue;
+    color: blue;
+}
+.rod {background-color: red;
+    color: red;
+}
+.gul {background-color: yellow;
+    color: yellow;
+}
+.svart {background-color: black;
+    color: black;
+}
+.gron {background-color: green;
+    color: green;
+}
